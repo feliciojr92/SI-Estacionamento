@@ -1,2 +1,3 @@
 # SI-Estacionamento
-Sistema de controle de estacionamento
+#projeto dde informatização de gestão de entrada, saída e permanência de veículo em 
+estacionamneto
